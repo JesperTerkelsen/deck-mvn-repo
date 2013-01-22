@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>dk.deck.remote-console</groupId>
+  <artifactId>console</artifactId>
+  <version>1.1.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20130122.082336</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20130122082336</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.1.2-20130122.082336-1</value>
+        <updated>20130122082336</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.1.2-20130122.082336-1</value>
+        <updated>20130122082336</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
